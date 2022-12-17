@@ -28,3 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 É um jogo de ping pong desenvolvido em um curso de lógica.
+
+## 🎮 Jogar
+
+Você pode jogar através [DESSE LINK](https://editor.p5js.org/KevinReisHartwig/full/H7b3bw0q2). 
