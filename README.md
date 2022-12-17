@@ -13,7 +13,7 @@ Curso de Lógica de programação: comece em lógica com o jogo Pong e Javascrip
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="aula5.gif" width="100%">
+  <img alt="gif do jogo ping pong" src="aula5.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,4 +27,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-É um jogo de ping pong 
+É um jogo de ping pong desenvolvido em um curso de lógica.
