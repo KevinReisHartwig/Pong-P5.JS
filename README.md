@@ -13,7 +13,7 @@ Curso de Lógica de programação: comece em lógica com o jogo Pong e Javascrip
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/aula5.png" width="100%">
+  <img alt="calendario da copa" src="aula5.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
